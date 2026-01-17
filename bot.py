@@ -27,4 +27,5 @@ async def on_message(message):
 
 # 5. Connect the Bot
 # Paste your token between the quotes below
-client.run('MTQ2MjEwOTA2NzIyODA4NjQ5NQ.Gk1Amt.T2n6x7nlOR5lsAlxQwWCoA1bU3BuHp5S6R2Fa0')
+
+client.run('MTQ2MjEwOTA2NzIyODA4NjQ5NQ.GqsyH8.Tya-4zSs9FQnwK4TYSbEE2lzkIIGgSVvlJjnP0')
